@@ -1,378 +1,289 @@
-import React from 'react';
-import { Github, Linkedin, Twitter, Mail, Globe, Coffee } from 'lucide-react';
+<div align="center">
 
-export function ReadmePreview() {
-  return (
-    <div className="w-full bg-[#0d1117] text-white">
-      {/* Header Banner */}
-      <div className="w-full relative">
-        <div className="h-[250px] bg-gradient-to-r from-[#A5586E] via-[#C85C9D] to-[#E284C1] flex items-center justify-center relative overflow-hidden">
-          <div className="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZWZzPjxwYXR0ZXJuIGlkPSJncmlkIiB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHBhdHRlcm5Vbml0cz0idXNlclNwYWNlT25Vc2UiPjxwYXRoIGQ9Ik0gNDAgMCBMIDAgMCAwIDQwIiBmaWxsPSJub25lIiBzdHJva2U9InJnYmEoMjU1LDI1NSwyNTUsMC4xKSIgc3Ryb2tlLXdpZHRoPSIxIi8+PC9wYXR0ZXJuPjwvZGVmcz48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyaWQpIi8+PC9zdmc+')] opacity-30"></div>
-          
-          <div className="z-10 text-center">
-            <h1 className="text-8xl font-bold text-[#FDB8E7] animate-pulse mb-4">YOUR NAME</h1>
-            <p className="text-2xl text-white/90">Full Stack Developer | Creative Coder | Tech Enthusiast</p>
-          </div>
-        </div>
-        
-        {/* Wave SVG */}
-        <svg className="w-full h-[50px] -mt-1" viewBox="0 0 1440 100" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-          <path d="M0,50 Q360,0 720,50 T1440,50 L1440,100 L0,100 Z" fill="#0d1117"/>
-        </svg>
-      </div>
+<!-- Header Banner with Custom Design -->
+<table width="100%">
+<tr>
+<td width="100%" style="background: linear-gradient(90deg, #A5586E 0%, #C85C9D 50%, #E284C1 100%); padding: 60px 0;">
 
-      <div className="max-w-6xl mx-auto px-6 py-12">
-        {/* Profile Section */}
-        <div className="grid md:grid-cols-2 gap-8 mb-12">
-          <div className="flex flex-col items-center justify-center bg-[#161b22] rounded-lg p-8 border border-[#30363d]">
-            <div className="w-full max-w-[300px] aspect-square rounded-lg mb-6 flex items-center justify-center overflow-hidden border-4 border-[#FDB8E7] shadow-2xl">
-              <img 
-                src="https://i.pinimg.com/originals/92/33/80/92338017c079bea4f1250ed4a3056117.gif" 
-                alt="Coding animation"
-                className="w-full h-full object-cover"
-              />
-            </div>
-            <h3 className="text-2xl font-bold text-[#FDB8E7] mb-4">👋 Welcome to my GitHub Profile!</h3>
-            <div className="flex items-center gap-2 text-sm text-[#E284C1]">
-              <span>Profile Views:</span>
-              <span className="bg-[#C85C9D] text-white px-3 py-1 rounded">1,234</span>
-            </div>
-          </div>
+<div align="center">
+  <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+  <h1 style="font-family: 'Abril Fatface', cursive; font-size: 80px; color: #FDB8E7; margin: 0;">laís moraes</h1>
+  <p style="color: white; font-size: 20px;">Full Stack Developer | Creative Coder | Tech Enthusiast</p>
+</div>
 
-          <div className="bg-[#161b22] rounded-lg p-8 border border-[#30363d]">
-            <h2 className="text-3xl font-bold text-[#FDB8E7] mb-4 flex items-center gap-2">
-              🚀 About Me
-            </h2>
-            <pre className="bg-[#0d1117] p-4 rounded-lg text-sm overflow-x-auto border border-[#30363d]">
-              <code className="text-[#E284C1]">
-{`const developer = {
-  name: "Your Name",
-  role: "Full Stack Developer",
-  location: "🌍 Earth",
-  languages: ["JavaScript", "TypeScript", "Python"],
-  technologies: {
-    frontend: ["React", "Next.js", "Vue"],
-    backend: ["Node.js", "Express", "Django"],
-    database: ["MongoDB", "PostgreSQL"],
-    tools: ["Docker", "AWS", "Git"]
-  },
-  currentlyLearning: "AI & Machine Learning",
-  hobbies: ["Coding", "Gaming", "Reading"],
-  motto: "Code is poetry ✨"
-};`}
-              </code>
-            </pre>
-          </div>
-        </div>
+<div align="right">
+  <img src="https://i.pinimg.com/originals/92/33/80/92338017c079bea4f1250ed4a3056117.gif" width="500" alt="Coding animation" style="opacity: 0.9;"/>
+</div>
 
-        {/* Connect Section */}
-        <div className="text-center mb-12">
-          <h3 className="text-2xl font-bold text-[#FDB8E7] mb-6">🌐 Connect with me</h3>
-          <div className="flex flex-wrap justify-center gap-4">
-            <a href="#" className="bg-[#E284C1] hover:bg-[#C85C9D] transition-colors px-6 py-3 rounded-lg font-semibold text-white flex items-center gap-2">
-              <Linkedin size={20} />
-              LinkedIn
-            </a>
-            <a href="#" className="bg-[#C85C9D] hover:bg-[#A5586E] transition-colors px-6 py-3 rounded-lg font-semibold text-white flex items-center gap-2">
-              <Twitter size={20} />
-              Twitter
-            </a>
-            <a href="#" className="bg-[#A5586E] hover:bg-[#8A5568] transition-colors px-6 py-3 rounded-lg font-semibold text-white flex items-center gap-2">
-              <Mail size={20} />
-              Email
-            </a>
-            <a href="#" className="bg-[#FDB8E7] hover:bg-[#E284C1] transition-colors px-6 py-3 rounded-lg font-semibold text-[#1a1a1a] flex items-center gap-2">
-              <Globe size={20} />
-              Portfolio
-            </a>
-          </div>
-        </div>
+</td>
+</tr>
+</table>
 
-        {/* Neon Divider */}
-        <div className="w-full h-1 bg-gradient-to-r from-[#A5586E] via-[#FDB8E7] to-[#A5586E] rounded-full mb-12 shadow-[0_0_20px_rgba(253,184,231,0.5)]"></div>
+</div>
 
-        {/* Tech Stack */}
-        <div className="mb-12">
-          <h2 className="text-3xl font-bold text-[#FDB8E7] mb-8 text-center">💻 Tech Stack & Tools</h2>
-          
-          <div className="space-y-6">
-            <div>
-              <h3 className="text-xl font-semibold text-[#E284C1] mb-3">Frontend</h3>
-              <div className="flex flex-wrap gap-2">
-                {['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'React', 'Next.js', 'Vue.js', 'Tailwind'].map((tech, idx) => (
-                  <span key={idx} className="bg-[#E284C1] text-white px-4 py-2 rounded-lg text-sm font-semibold hover:scale-105 transition-transform cursor-pointer">
-                    {tech}
-                  </span>
-                ))}
-              </div>
-            </div>
+<!-- Profile Section -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img src="https://i.pinimg.com/736x/20/24/52/202452aa95997e08f98e140526af6c3f.jpg" width="200" style="border-radius: 50%; border: 4px solid #FDB8E7;" alt="Profile"/>
+  
+  ### 👋 Welcome to my GitHub Profile!
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=C85C9D&style=flat" alt="Profile views"/>
+  </p>
+  
+</td>
+<td width="50%" align="left">
 
-            <div>
-              <h3 className="text-xl font-semibold text-[#C85C9D] mb-3">Backend</h3>
-              <div className="flex flex-wrap gap-2">
-                {['Node.js', 'Express', 'Python', 'Django', 'FastAPI'].map((tech, idx) => (
-                  <span key={idx} className="bg-[#C85C9D] text-white px-4 py-2 rounded-lg text-sm font-semibold hover:scale-105 transition-transform cursor-pointer">
-                    {tech}
-                  </span>
-                ))}
-              </div>
-            </div>
+## 𖹭.ᐟ About Me
 
-            <div>
-              <h3 className="text-xl font-semibold text-[#A5586E] mb-3">Database & Cloud</h3>
-              <div className="flex flex-wrap gap-2">
-                {['MongoDB', 'PostgreSQL', 'MySQL', 'Redis', 'AWS', 'Docker'].map((tech, idx) => (
-                  <span key={idx} className="bg-[#A5586E] text-white px-4 py-2 rounded-lg text-sm font-semibold hover:scale-105 transition-transform cursor-pointer">
-                    {tech}
-                  </span>
-                ))}
-              </div>
-            </div>
+```javascript
+Hi, I'm Laís Moraes.
 
-            <div>
-              <h3 className="text-xl font-semibold text-[#FDB8E7] mb-3">Tools</h3>
-              <div className="flex flex-wrap gap-2">
-                {['Git', 'VS Code', 'Figma', 'Postman'].map((tech, idx) => (
-                  <span key={idx} className="bg-[#FDB8E7] text-[#1a1a1a] px-4 py-2 rounded-lg text-sm font-semibold hover:scale-105 transition-transform cursor-pointer">
-                    {tech}
-                  </span>
-                ))}
-              </div>
-            </div>
-          </div>
-        </div>
+Full Stack Developer focused on building scalable, 
+reliable, and high-quality software.
 
-        {/* Neon Divider */}
-        <div className="w-full h-1 bg-gradient-to-r from-[#A5586E] via-[#FDB8E7] to-[#A5586E] rounded-full mb-12 shadow-[0_0_20px_rgba(253,184,231,0.5)]"></div>
+I enjoy solving complex problems, designing clean 
+architectures, and delivering products that balance 
+engineering excellence and user experience.
 
-        {/* GitHub Stats */}
-        <div className="mb-12">
-          <h2 className="text-3xl font-bold text-[#FDB8E7] mb-8 text-center">📊 GitHub Statistics</h2>
-          
-          <div className="grid md:grid-cols-2 gap-6 mb-6">
-            <div className="bg-[#161b22] rounded-lg p-6 border border-[#30363d] hover:border-[#C85C9D] transition-colors">
-              <div className="flex items-center justify-between mb-4">
-                <h3 className="text-lg font-semibold text-[#FDB8E7]">GitHub Stats</h3>
-                <Github className="text-[#C85C9D]" size={24} />
-              </div>
-              <div className="space-y-3">
-                <div className="flex justify-between">
-                  <span className="text-[#E284C1]">Total Stars:</span>
-                  <span className="text-[#FDB8E7] font-bold">150+</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-[#E284C1]">Total Commits:</span>
-                  <span className="text-[#FDB8E7] font-bold">1,200+</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-[#E284C1]">Total PRs:</span>
-                  <span className="text-[#FDB8E7] font-bold">50+</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-[#E284C1]">Followers:</span>
-                  <span className="text-[#FDB8E7] font-bold">100+</span>
-                </div>
-              </div>
-            </div>
+I value simplicity, performance, and clarity | 
+in both code and communication.
 
-            <div className="bg-[#161b22] rounded-lg p-6 border border-[#30363d] hover:border-[#C85C9D] transition-colors">
-              <div className="flex items-center justify-between mb-4">
-                <h3 className="text-lg font-semibold text-[#FDB8E7]">Streak Stats</h3>
-                <span className="text-2xl">🔥</span>
-              </div>
-              <div className="space-y-3">
-                <div className="flex justify-between">
-                  <span className="text-[#E284C1]">Current Streak:</span>
-                  <span className="text-[#FDB8E7] font-bold">15 days</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-[#E284C1]">Longest Streak:</span>
-                  <span className="text-[#FDB8E7] font-bold">45 days</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-[#E284C1]">Total Contributions:</span>
-                  <span className="text-[#FDB8E7] font-bold">2,500+</span>
-                </div>
-              </div>
-            </div>
-          </div>
+hobbies: ["Coding", "Gaming", "Reading"],
+motto: "Code is poetry ✨"
+```
 
-          <div className="grid md:grid-cols-2 gap-6">
-            <div className="bg-[#161b22] rounded-lg p-6 border border-[#30363d] hover:border-[#C85C9D] transition-colors">
-              <h3 className="text-lg font-semibold text-[#FDB8E7] mb-4">Top Languages</h3>
-              <div className="space-y-3">
-                <div>
-                  <div className="flex justify-between mb-1">
-                    <span className="text-[#E284C1]">JavaScript</span>
-                    <span className="text-[#FDB8E7]">45%</span>
-                  </div>
-                  <div className="w-full bg-[#0d1117] rounded-full h-2">
-                    <div className="bg-[#E284C1] h-2 rounded-full" style={{width: '45%'}}></div>
-                  </div>
-                </div>
-                <div>
-                  <div className="flex justify-between mb-1">
-                    <span className="text-[#E284C1]">TypeScript</span>
-                    <span className="text-[#FDB8E7]">30%</span>
-                  </div>
-                  <div className="w-full bg-[#0d1117] rounded-full h-2">
-                    <div className="bg-[#C85C9D] h-2 rounded-full" style={{width: '30%'}}></div>
-                  </div>
-                </div>
-                <div>
-                  <div className="flex justify-between mb-1">
-                    <span className="text-[#E284C1]">Python</span>
-                    <span className="text-[#FDB8E7]">25%</span>
-                  </div>
-                  <div className="w-full bg-[#0d1117] rounded-full h-2">
-                    <div className="bg-[#A5586E] h-2 rounded-full" style={{width: '25%'}}></div>
-                  </div>
-                </div>
-              </div>
-            </div>
+</td>
+</tr>
+</table>
 
-            <div className="bg-[#161b22] rounded-lg p-6 border border-[#30363d] hover:border-[#C85C9D] transition-colors">
-              <h3 className="text-lg font-semibold text-[#FDB8E7] mb-4">Trophies</h3>
-              <div className="grid grid-cols-4 gap-3">
-                {['🏆', '⭐', '🎯', '💎', '🔥', '⚡', '🚀', '✨'].map((trophy, idx) => (
-                  <div key={idx} className="text-4xl text-center hover:scale-110 transition-transform cursor-pointer">
-                    {trophy}
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-        </div>
+<br>
 
-        {/* Contribution Graph Mock */}
-        <div className="bg-[#161b22] rounded-lg p-6 border border-[#30363d] mb-12">
-          <h3 className="text-lg font-semibold text-[#FDB8E7] mb-4">Contribution Graph</h3>
-          <div className="grid grid-cols-52 gap-1">
-            {Array.from({ length: 364 }).map((_, idx) => (
-              <div 
-                key={idx} 
-                className="w-3 h-3 rounded-sm hover:scale-110 transition-transform cursor-pointer"
-                style={{
-                  backgroundColor: Math.random() > 0.7 ? 
-                    (Math.random() > 0.5 ? '#C85C9D' : '#A5586E') : 
-                    (Math.random() > 0.3 ? '#8A5568' : '#30363d')
-                }}
-              />
-            ))}
-          </div>
-        </div>
+<!-- Connect Section -->
+<div align="center">
 
-        {/* Neon Divider */}
-        <div className="w-full h-1 bg-gradient-to-r from-[#A5586E] via-[#FDB8E7] to-[#A5586E] rounded-full mb-12 shadow-[0_0_20px_rgba(253,184,231,0.5)]"></div>
+### 🌐 Connect with me
 
-        {/* Current Projects */}
-        <div className="mb-12">
-          <h2 className="text-3xl font-bold text-[#FDB8E7] mb-8 text-center">🔥 Current Projects</h2>
-          <div className="grid md:grid-cols-2 gap-6">
-            {[1, 2].map((project) => (
-              <div key={project} className="bg-[#161b22] rounded-lg p-6 border border-[#30363d] hover:border-[#C85C9D] transition-all hover:scale-105 cursor-pointer">
-                <div className="flex items-start justify-between mb-3">
-                  <h3 className="text-xl font-bold text-[#FDB8E7]">Project Name {project}</h3>
-                  <span className="text-[#C85C9D]">⭐ 42</span>
-                </div>
-                <p className="text-[#E284C1] mb-4">
-                  An awesome project description that explains what this project does and why it's amazing.
-                </p>
-                <div className="flex gap-2">
-                  <span className="text-xs bg-[#C85C9D] text-white px-3 py-1 rounded-full">React</span>
-                  <span className="text-xs bg-[#A5586E] text-white px-3 py-1 rounded-full">TypeScript</span>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-E284C1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-C85C9D?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-A5586E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FDB8E7?style=for-the-badge&logo=google-chrome&logoColor=1a1a1a"/></a>
 
-        {/* Neon Divider */}
-        <div className="w-full h-1 bg-gradient-to-r from-[#A5586E] via-[#FDB8E7] to-[#A5586E] rounded-full mb-12 shadow-[0_0_20px_rgba(253,184,231,0.5)]"></div>
+</div>
 
-        {/* Activity Section */}
-        <div className="bg-[#161b22] rounded-lg p-8 border border-[#30363d] mb-12">
-          <h2 className="text-3xl font-bold text-[#FDB8E7] mb-6 text-center">🎯 What I'm up to</h2>
-          <pre className="bg-[#0d1117] p-6 rounded-lg text-sm overflow-x-auto border border-[#30363d] mb-6">
-            <code className="text-[#E284C1]">
-{`interface CurrentActivity {
-  learning: string[];
-  working_on: string[];
-  collaboration: string;
-  fun_fact: string;
-}
+<br>
 
-const myActivity: CurrentActivity = {
-  learning: ["AI/ML", "Web3", "Cloud Architecture"],
-  working_on: ["Full-stack applications", "Open source contributions"],
-  collaboration: "I'm looking to collaborate on innovative projects",
-  fun_fact: "I can debug code faster than I can debug my life 🤷‍♂️"
-};`}
-            </code>
-          </pre>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-          <div className="space-y-3">
-            <div className="flex items-start gap-3">
-              <span className="text-2xl">🔭</span>
-              <p className="text-[#E284C1]">Currently working on <span className="text-[#FDB8E7] font-semibold">cutting-edge web applications</span></p>
-            </div>
-            <div className="flex items-start gap-3">
-              <span className="text-2xl">🌱</span>
-              <p className="text-[#E284C1]">Learning <span className="text-[#FDB8E7] font-semibold">AI/ML and blockchain technologies</span></p>
-            </div>
-            <div className="flex items-start gap-3">
-              <span className="text-2xl">👯</span>
-              <p className="text-[#E284C1]">Open to collaborate on <span className="text-[#FDB8E7] font-semibold">open source projects</span></p>
-            </div>
-            <div className="flex items-start gap-3">
-              <span className="text-2xl">💬</span>
-              <p className="text-[#E284C1]">Ask me about <span className="text-[#FDB8E7] font-semibold">React, Node.js, TypeScript</span></p>
-            </div>
-            <div className="flex items-start gap-3">
-              <span className="text-2xl">⚡</span>
-              <p className="text-[#E284C1]">Fun fact: <span className="text-[#FDB8E7] font-semibold">Coffee powers my code</span> ☕</p>
-            </div>
-          </div>
-        </div>
+<br>
 
-        {/* Neon Divider */}
-        <div className="w-full h-1 bg-gradient-to-r from-[#A5586E] via-[#FDB8E7] to-[#A5586E] rounded-full mb-12 shadow-[0_0_20px_rgba(253,184,231,0.5)]"></div>
+<!-- Tech Stack Section -->
+## 𖹭.ᐟ Tech Stack & Tools
 
-        {/* Quote Section */}
-        <div className="bg-[#161b22] rounded-lg p-8 border border-[#C85C9D] mb-12 text-center">
-          <h2 className="text-2xl font-bold text-[#FDB8E7] mb-4">💭 Dev Quote</h2>
-          <blockquote className="text-xl text-[#E284C1] italic mb-3">
-            "Code is like humor. When you have to explain it, it's bad."
-          </blockquote>
-          <p className="text-[#FDB8E7]">– Cory House</p>
-        </div>
+<div align="center">
 
-        {/* Neon Divider */}
-        <div className="w-full h-1 bg-gradient-to-r from-[#A5586E] via-[#FDB8E7] to-[#A5586E] rounded-full mb-12 shadow-[0_0_20px_rgba(253,184,231,0.5)]"></div>
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E284C1?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-E284C1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-E284C1?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-E284C1?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-E284C1?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-E284C1?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-E284C1?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-E284C1?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-        {/* Support Section */}
-        <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold text-[#FDB8E7] mb-4">💖 Support My Work</h2>
-          <p className="text-[#E284C1] mb-6">If you like my work, consider supporting me:</p>
-          <a href="#" className="inline-flex items-center gap-2 bg-[#FDB8E7] hover:bg-[#E284C1] transition-colors px-8 py-4 rounded-lg font-bold text-[#1a1a1a] text-lg">
-            <Coffee size={24} />
-            Buy Me a Coffee
-          </a>
-        </div>
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-C85C9D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-C85C9D?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-C85C9D?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-C85C9D?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-C85C9D?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
-        {/* Footer */}
-        <div className="text-center py-8">
-          <p className="text-xl text-[#E284C1] italic mb-4">
-            ✨ "Code is like humor. When you have to explain it, it's bad." – Cory House
-          </p>
-          <p className="text-[#FDB8E7] mb-6">Made with 💖 and lots of ☕ by <span className="font-bold">YOUR NAME</span></p>
-        </div>
-      </div>
+### Database & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-A5586E?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-A5586E?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-A5586E?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-A5586E?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-A5586E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-A5586E?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-      {/* Footer Wave */}
-      <div className="w-full h-[120px] bg-gradient-to-r from-[#A5586E] via-[#C85C9D] to-[#E284C1] relative overflow-hidden">
-        <div className="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZWZzPjxwYXR0ZXJuIGlkPSJncmlkIiB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHBhdHRlcm5Vbml0cz0idXNlclNwYWNlT25Vc2UiPjxwYXRoIGQ9Ik0gNDAgMCBMIDAgMCAwIDQwIiBmaWxsPSJub25lIiBzdHJva2U9InJnYmEoMjU1LDI1NSwyNTUsMC4xKSIgc3Ryb2tlLXdpZHRoPSIxIi8+PC9wYXR0ZXJuPjwvZGVmcz48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyaWQpIi8+PC9zdmc+')] opacity-30"></div>
-      </div>
-    </div>
-  );
-}
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-FDB8E7?style=for-the-badge&logo=git&logoColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/VS_Code-FDB8E7?style=for-the-badge&logo=visual-studio-code&logoColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Figma-FDB8E7?style=for-the-badge&logo=figma&logoColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Postman-FDB8E7?style=for-the-badge&logo=postman&logoColor=1a1a1a"/>
+</p>
+
+</div>
+
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<!-- GitHub Stats -->
+## 𖹭.ᐟ GitHub Statistics
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FDB8E7&text_color=E284C1&icon_color=C85C9D&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&stroke=E284C1&ring=FDB8E7&fire=C85C9D&currStreakLabel=FDB8E7&sideLabels=E284C1&currStreakNum=FDB8E7&sideNums=E284C1" alt="GitHub Streak"/>
+
+</div>
+
+<br>
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FDB8E7&text_color=E284C1&langs_count=8" alt="Top Languages"/>
+  
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&column=4&row=2&margin-w=10&title=Stars,Followers,Commits,PullRequest" alt="Trophies"/>
+
+</div>
+
+<br>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=FDB8E7&line=C85C9D&point=E284C1&area=true&area_color=A5586E" alt="Contribution Graph"/>
+</div>
+
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<!-- Current Projects -->
+## 𖹭.ᐟ Current Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=radical&hide_border=true&bg_color=0d1117&title_color=FDB8E7&text_color=E284C1&icon_color=C85C9D" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=radical&hide_border=true&bg_color=0d1117&title_color=FDB8E7&text_color=E284C1&icon_color=C85C9D" />
+</a>
+
+</div>
+
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<!-- Activity Section -->
+## 𖹭.ᐟ What I'm up to
+
+```typescript
+⟢ Stack
+
+Languages
+JavaScript · TypeScript · Python
+
+Frontend
+React · Next.js · Vue
+
+Backend
+Node.js · Express · Django
+
+Data & Cloud
+PostgreSQL · MongoDB · AWS · Docker
+
+Tools
+Git · CI/CD · Agile
+
+⟢ Currently Exploring
+
+    ⤷ AI Engineering · Machine Learning · System Design
+
+⟢ Engineering Principles
+
+    ⤷ Clean, readable, and maintainable code
+
+    ⤷ Scalability and performance by design
+
+    ⤷ Strong ownership and accountability
+
+    ⤷ Continuous learning and improvement
+
+⟢ Open to collaboration, impactful projects, and global opportunities.
+```
+
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<!-- Quote Section -->
+<div align="center">
+
+## 💭 Dev Quote
+
+*"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
+
+</div>
+
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<!-- Support Section -->
+<div align="center">
+
+## 𖹭.ᐟ Support My Work
+
+If you like my work, consider supporting me:
+
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDB8E7?style=for-the-badge&logo=buy-me-a-coffee&logoColor=1a1a1a" alt="Buy Me A Coffee"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- Footer -->
+<div align="center">
+
+Made with 💖 and lots of ☕ by **Laís Moraes**
+
+<br>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A5586E,50:C85C9D,100:E284C1&height=120&section=footer"/>
+
+</div>
