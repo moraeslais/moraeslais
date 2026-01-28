@@ -200,32 +200,29 @@
     ">
   <br>
 ⟢ Stack
-
-Languages
+<br>
+Languages: 
 JavaScript · TypeScript · Python
 
-Frontend
+Frontend:
 React · Next.js · Vue
 
-Backend
+Backend:
 Node.js · Express · Django
 
-Data & Cloud
+Data & Cloud:
 PostgreSQL · MongoDB · AWS · Docker
 
-Tools
+Tools:
 Git · CI/CD · Agile
 
-⟢ Currently Exploring
-    ⤷ AI Engineering · Machine Learning · System Design
+⟢ Currently Exploring:
+AI Engineering · Machine Learning · System Design
 
-⟢ Engineering Principles
-    ⤷ Clean, readable, and maintainable code
-    ⤷ Scalability and performance by design
-    ⤷ Strong ownership and accountability
-    ⤷ Continuous learning and improvement
+⟢ Engineering Principles: 
+Clean, readable, and maintainable code · Scalability and performance by design · Strong ownership and accountability · Continuous learning and improvement
     
-⟢ Open to collaboration, impactful projects, and global opportunities.
+<h1>⟢ Open to collaboration, impactful projects, and global opportunities.</h1>
 <br>
 <br>
 <div align="center">
