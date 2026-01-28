@@ -18,8 +18,8 @@
   <!-- Avatar -->
   <img 
     src="assets/avatar.jpg"
-    width="140"
-    height="140"
+    width="200"
+    height="200"
     style="
       border-radius: 999px;
       border: 4px solid #ff79c6;
@@ -27,12 +27,6 @@
       object-fit: cover;
     "
   />
-
-  <!-- Welcome -->
-  <h1>
-    <font color="#ff79c6">Welcome to my GitHub Profile!</font>
-  </h1>
-
   <!-- Komarev Badge -->
   <img 
     src="https://komarev.com/ghpvc/?username=moraeslais&label=Profile%20Views&color=ff79c6&style=flat&text_color=ffffff"
