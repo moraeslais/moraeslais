@@ -1,48 +1,56 @@
 <div align="center">
-  
-<!-- Header with Gradient Effect -->
-<div style="position: relative; width: 100%;">
-  <img src="https://i.pinimg.com/originals/92/33/80/92338017c079bea4f1250ed4a3056117.gif" width="100%" alt="Coding Animation Header"/>
-  <div style="position: absolute; bottom: 0; width: 100%; height: 120px; background: linear-gradient(to top, #0d1117 0%, transparent 100%);"></div>
+
+<!-- Header Banner with Custom Design -->
+<table width="100%">
+<tr>
+<td width="100%" style="background: linear-gradient(90deg, #A5586E 0%, #C85C9D 50%, #E284C1 100%); padding: 60px 0;">
+
+<div align="center">
+  <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+  <h1 style="font-family: 'Abril Fatface', cursive; font-size: 80px; color: #FDB8E7; margin: 0;">laís moraes</h1>
+  <p style="color: white; font-size: 20px;">Full Stack Developer | Creative Coder | Tech Enthusiast</p>
 </div>
 
-<br>
+<div align="right">
+  <img src="https://i.pinimg.com/originals/92/33/80/92338017c079bea4f1250ed4a3056117.gif" width="500" alt="Coding animation" style="opacity: 0.9;"/>
+</div>
 
-<!-- Profile Avatar -->
-<img src="https://i.pinimg.com/736x/20/24/52/202452aa95997e08f98e140526af6c3f.jpg" width="180" style="border-radius: 50%; border: 4px solid #FDB8E7; box-shadow: 0 0 30px #E284C1;"/>
+</td>
+</tr>
+</table>
 
-<br><br>
+</div>
 
-<!-- Name with Custom Font -->
-<h1 style="font-family: 'Abril Fatface', serif; font-size: 3.5em; margin: 0; background: linear-gradient(135deg, #FDB8E7 0%, #E284C1 50%, #C85C9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  laís moraes
-</h1>
+<!-- Profile Section -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img src="https://i.pinimg.com/736x/20/24/52/202452aa95997e08f98e140526af6c3f.jpg" width="200" style="border-radius: 50%; border: 4px solid #FDB8E7;" alt="Profile"/>
+  
+  ### 👋 Welcome to my GitHub Profile!
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=moraeslais&label=Profile%20Views&color=C85C9D&style=flat" alt="Profile views"/>
+  </p>
+  
+</td>
+<td width="50%" align="left">
 
-<h3 style="color: #FDB8E7; font-weight: 300; letter-spacing: 4px; margin-top: -10px;">
-  ✨ FULL STACK DEVELOPER ✨
-</h3>
-
-<br>
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FDB8E7&center=true&vCenter=true&width=600&lines=Building+digital+experiences+with+creativity;Transforming+ideas+into+elegant+code;Passionate+about+design+%26+development" alt="Typing SVG" />
-
-<br><br>
-
----
-
-<br>
-
-## 🌸 About Me
-
-<div align="left" style="padding: 0 60px;">
+## 𖹭.ᐟ About Me
 
 ```javascript
-const lais = {
-    role: "Full Stack Developer",
-    location: "Brazil 🇧🇷",
-    passions: ["Clean Code", "UI/UX Design", "Problem Solving"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I turn coffee into code ☕️→💻",
-    lifePhilosophy: "Code with purpose, design with passion"
-};
+Hi, I'm Laís Moraes.
+
+Full Stack Developer focused on building scalable, 
+reliable, and high-quality software.
+
+I enjoy solving complex problems, designing clean 
+architectures, and delivering products that balance 
+engineering excellence and user experience.
+
+I value simplicity, performance, and clarity | 
+in both code and communication.
+
+hobbies: ["Coding", "Gaming", "Reading"],
+motto: "Code is poetry ✨"
