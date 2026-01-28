@@ -1,4 +1,17 @@
 <div align="center">
+  <img 
+    src="assets/sakuras.gif" 
+    alt="Laís Moraes Header"
+    style="
+      width: 100%;
+      max-width: 1000px;
+      border-radius: 12px;
+      margin-bottom: 30px;
+    "
+  />
+</div>
+
+<div align="center">
 
   <!-- Avatar redondo -->
   <img 
