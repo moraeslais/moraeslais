@@ -92,6 +92,7 @@
 
 <br>
 
+<div align="center">
 <!-- Tech Stack Section -->
 ## 𖹭.ᐟ Tech Stack & Tools
 
@@ -141,6 +142,7 @@
 <br>
 <br>
 
+<div align="center">
 <!-- GitHub Stats -->
 ## 𖹭.ᐟ GitHub Statistics
 
@@ -172,6 +174,7 @@
 <br>
 <br>
 
+<div align="center">
 <!-- Current Projects -->
 ## 𖹭.ᐟ Current Projects
 
