@@ -27,11 +27,10 @@
             </p>
           </td>
           <td width="45%" align="right" valign="middle">
-            <img 
-              src="https://imgur.com/a/Gha4Gp0"
-              width="420"
-              alt="Pixel coding animation"
-              style="border-radius: 8px; opacity: 0.95;"
+            <img src="https://i.pinimg.com/originals/92/33/80/92338017c079bea4f1250ed4a3056117.gif"
+                width="100%" 
+                alt="Pixel coding animation"
+                style="max-width: 420px; border-radius: 8px; opacity: 0.95;"
             />
           </td>
         </tr>
