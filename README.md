@@ -6,15 +6,10 @@
   font-family: 'Segoe UI', sans-serif;
 ">
 
-  <img 
-    src="[https://i.imgur.com/8Km9tLL.png](https://i.pinimg.com/736x/20/24/52/202452aa95997e08f98e140526af6c3f.jpg)](https://i.pinimg.com/736x/20/24/52/202452aa95997e08f98e140526af6c3f.jpg)" 
-    width="140" 
-    style="
-      border-radius: 50%;
-      border: 4px solid #ff79c6;
-      margin-bottom: 16px;
-    "
-  />
+<img src="https://i.pinimg.com/originals/92/33/80/92338017c079bea4f1250ed4a3056117.gif" 
+  width="500" alt="Coding animation" 
+  style="opacity: 0.9;"
+/>
 
   <h1 style="color:#ff79c6; margin: 10px 0;">
     Welcome to my GitHub Profile!
