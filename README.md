@@ -1,7 +1,7 @@
-<!-- HEADER / BANNER COM FUNDO ROSA -->
+
 <div align="center" style="position: relative;">
 
-  <!-- GIF -->
+
   <img 
     src="assets/sakuras.gif"
     alt="Laís Moraes Header"
@@ -12,7 +12,7 @@
     "
   />
 
-  <!-- Overlay rosa -->
+
   <div style="
     position: absolute;
     top: 0;
@@ -25,7 +25,7 @@
     border-radius: 12px;
   "></div>
 
-  <!-- Texto -->
+
   <div style="
     position: absolute;
     top: 50%;
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-  <!-- Avatar redondo -->
+  
   <img 
     src="assets/avatar.jpg"
     width="140"
@@ -66,7 +66,7 @@
     <font color="#ff79c6">Welcome to my GitHub Profile!</font>
   </h1>
 
-  <!-- Komarev Badge -->
+
   <img 
     src="https://komarev.com/ghpvc/?username=moraeslais&label=Profile%20Views&color=ff79c6&style=flat&text_color=ffffff"
     alt="Profile views"
