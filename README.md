@@ -224,6 +224,7 @@ Git · CI/CD · Agile
     ⤷ Scalability and performance by design
     ⤷ Strong ownership and accountability
     ⤷ Continuous learning and improvement
+    
 ⟢ Open to collaboration, impactful projects, and global opportunities.
 <br>
 <br>
