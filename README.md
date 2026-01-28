@@ -7,7 +7,7 @@
 ">
 
   <img 
-    src="https://i.imgur.com/8Km9tLL.png" 
+    src="[https://i.imgur.com/8Km9tLL.png](https://i.pinimg.com/736x/20/24/52/202452aa95997e08f98e140526af6c3f.jpg)" 
     width="140" 
     style="
       border-radius: 50%;
