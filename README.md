@@ -41,11 +41,9 @@
     text-align: left;
     box-shadow: 0 0 20px rgba(255,121,198,0.15);
   ">
-
     <h2 style="color:#ff79c6; margin-top:0;">
       ♡ About Me
     </h2>
-
     <div style="
       background: #0b1220;
       border-radius: 10px;
@@ -56,21 +54,16 @@
       color: #e5e7eb;
     ">
       Hi, I'm <span style="color:#ff79c6;">Laís Moraes</span>.<br><br>
-
       Full Stack Developer focused on building scalable,<br>
       reliable, and high-quality software.<br><br>
-
       I enjoy solving complex problems, designing clean<br>
       architectures, and delivering products that balance<br>
       engineering excellence and user experience.<br><br>
-
       I value simplicity, performance, and clarity |<br>
       in both code and communication.<br><br>
-
       hobbies: [<span style="color:#ff79c6;">"Coding"</span>, 
                <span style="color:#ff79c6;">"Gaming"</span>, 
                <span style="color:#ff79c6;">"Reading"</span>],<br>
-
       motto: "<span style="color:#ff79c6;">Code is poetry ✨</span>"
     </div>
 
