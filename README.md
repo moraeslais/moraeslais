@@ -1,23 +1,52 @@
-<div align="center">
+<!-- HEADER -->
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="
+      background: linear-gradient(90deg, #A5586E 0%, #C85C9D 50%, #E284C1 100%);
+      padding: 50px 40px;
+    ">
+      <table width="100%" cellspacing="0" cellpadding="0">
+        <tr>
+          
+          <!-- LEFT: TEXT -->
+          <td width="55%" valign="middle">
+            <h1 style="
+              margin: 0;
+              font-size: 72px;
+              font-weight: 700;
+              color: #F7C6E7;
+              font-family: Georgia, 'Times New Roman', serif;
+              letter-spacing: 1px;
+            ">
+              laís moraes
+            </h1>
 
-<!-- Header Banner with Custom Design -->
-<table width="100%">
-<tr>
-<td width="100%" style="background: linear-gradient(90deg, #A5586E 0%, #C85C9D 50%, #E284C1 100%); padding: 60px 0;">
+            <p style="
+              margin-top: 16px;
+              font-size: 20px;
+              color: #FFFFFF;
+              font-family: Arial, Helvetica, sans-serif;
+            ">
+              Full Stack Developer | Creative Coder | Tech Enthusiast
+            </p>
+          </td>
 
-<div align="center">
-  <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
-  <h1 style="font-family: 'Abril Fatface', cursive; font-size: 80px; color: #FDB8E7; margin: 0;">laís moraes</h1>
-  <p style="color: white; font-size: 20px;">Full Stack Developer | Creative Coder | Tech Enthusiast</p>
-</div>
+          <!-- RIGHT: GIF -->
+          <td width="45%" align="right" valign="middle">
+            <img 
+              src="https://i.pinimg.com/originals/92/33/80/92338017c079bea4f1250ed4a3056117.gif"
+              width="420"
+              alt="Pixel coding animation"
+              style="border-radius: 8px; opacity: 0.95;"
+            />
+          </td>
 
-<div align="right">
-  <img src="https://i.pinimg.com/originals/92/33/80/92338017c079bea4f1250ed4a3056117.gif" width="500" alt="Coding animation" style="opacity: 0.9;"/>
-</div>
-
-</td>
-</tr>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
+
 
 </div>
 
