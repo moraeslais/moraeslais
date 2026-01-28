@@ -247,6 +247,8 @@ Git · CI/CD · Agile
 <div align="center">
 <h2> 𖹭.ᐟ Support My Work</h2>
 If you like my work, consider supporting me:
+  <br>
+  <br>
 <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDB8E7?style=for-the-badge&logo=buy-me-a-coffee&logoColor=1a1a1a" alt="Buy Me A Coffee"/>
 </a>
@@ -256,12 +258,7 @@ If you like my work, consider supporting me:
 <div align="center">
 Made with 💖 and lots of ☕ by **Laís Moraes**
 <br>
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moraeslais/moraeslais/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moraeslais/moraeslais/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moraeslais/moraeslais/output/github-contribution-grid-snake.svg">
-</picture>
+
 <br><br>
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A5586E,50:C85C9D,100:E284C1&height=120&section=footer"/>
