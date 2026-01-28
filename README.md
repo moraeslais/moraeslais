@@ -1,15 +1,50 @@
-<div align="center">
+<!-- HEADER / BANNER COM FUNDO ROSA -->
+<div align="center" style="position: relative;">
+
+  <!-- GIF -->
   <img 
-    src="assets/sakuras.gif" 
+    src="assets/sakuras.gif"
     alt="Laís Moraes Header"
+    width="100%"
     style="
-      width: 100%;
-      max-width: 1000px;
+      max-width: 1100px;
       border-radius: 12px;
-      margin-bottom: 30px;
     "
   />
+
+  <!-- Overlay rosa -->
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 1100px;
+    height: 100%;
+    background: rgba(255, 121, 198, 0.45);
+    border-radius: 12px;
+  "></div>
+
+  <!-- Texto -->
+  <div style="
+    position: absolute;
+    top: 50%;
+    left: 8%;
+    transform: translateY(-50%);
+    text-align: left;
+    color: white;
+    z-index: 2;
+  ">
+    <h1 style="margin: 0;">
+      <font color="#ffe0f1" size="6">Laís Moraes</font>
+    </h1>
+    <p style="margin: 8px 0 0 0; font-size: 16px;">
+      Full Stack Developer | Creative Coder | Tech Enthusiast
+    </p>
+  </div>
+
 </div>
+
 
 <div align="center">
 
