@@ -9,16 +9,22 @@
   <!-- Avatar -->
   <img 
     src="assets/avatar.jpg" 
-    width="140" 
     style="
+      width: 140px;
+      height: 140px;
       border-radius: 50%;
+      object-fit: cover;
       border: 4px solid #ff79c6;
       margin-bottom: 16px;
     "
   />
 
   <!-- Welcome text -->
-  <h1 style="color:#ff79c6; margin: 10px 0;">
+  <h1 style="
+    color: #ff79c6;
+    margin: 10px 0;
+    font-weight: bold;
+  ">
     Welcome to my GitHub Profile!
   </h1>
 
@@ -41,7 +47,11 @@
     text-align: left;
     box-shadow: 0 0 20px rgba(255,121,198,0.15);
   ">
-    <h2 style="color:#ff79c6; margin-top:0;">
+    <h2 style="
+      color: #ff79c6;
+      margin-top: 0;
+      font-weight: bold;
+    ">
       ♡ About Me
     </h2>
     <div style="
