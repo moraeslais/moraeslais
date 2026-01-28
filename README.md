@@ -86,15 +86,11 @@
 </div>
 
 <br>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <br>
 
 <div align="center">
 <!-- Tech Stack Section -->
-## 𖹭.ᐟ Tech Stack & Tools
+<h2>## 𖹭.ᐟ Tech Stack & Tools</h2>
 
 <div align="center">
 
@@ -144,7 +140,7 @@
 
 <div align="center">
 <!-- GitHub Stats -->
-## 𖹭.ᐟ GitHub Statistics
+<h2>## 𖹭.ᐟ GitHub Statistics</h2>
 
 <div align="center">
   
@@ -176,7 +172,7 @@
 
 <div align="center">
 <!-- Current Projects -->
-## 𖹭.ᐟ Current Projects
+<h2>## 𖹭.ᐟ Current Projects</h2>
 
 <div align="center">
 
@@ -192,7 +188,9 @@
 
 <br>
 <br>
-## 𖹭.ᐟ What I'm up to
+
+<div align="center">
+</h2>## 𖹭.ᐟ What I'm up to</h2>
 ```typescript
 ⟢ Stack
 
