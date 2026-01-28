@@ -191,7 +191,15 @@
 
 <div align="center">
 </h2>## 𖹭.ᐟ What I'm up to</h2>
-```typescript
+<div style="
+      background: #0b1220;
+      border-radius: 10px;
+      padding: 18px;
+      font-family: monospace;
+      font-size: 14px;
+      line-height: 1.6;
+      color: #e5e7eb;
+    ">
 ⟢ Stack
 
 Languages
@@ -217,8 +225,9 @@ Git · CI/CD · Agile
     ⤷ Scalability and performance by design
     ⤷ Strong ownership and accountability
     ⤷ Continuous learning and improvement
-⟢ Open to collaboration, impactful projects, and global opportunities.```
+⟢ Open to collaboration, impactful projects, and global opportunities.
 <br>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <br>
 <!-- Quote Section -->
