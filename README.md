@@ -90,7 +90,7 @@
 
 <div align="center">
 <!-- Tech Stack Section -->
-<h2>## 𖹭.ᐟ Tech Stack & Tools</h2>
+##<h2> 𖹭.ᐟ Tech Stack & Tools</h2>
 
 <div align="center">
 
@@ -172,7 +172,7 @@
 
 <div align="center">
 <!-- Current Projects -->
-<h2>## 𖹭.ᐟ Current Projects</h2>
+##<h2> 𖹭.ᐟ Current Projects</h2>
 
 <div align="center">
 
@@ -190,7 +190,7 @@
 <br>
 
 <div align="center">
-</h2>## 𖹭.ᐟ What I'm up to</h2>
+##</h2> 𖹭.ᐟ What I'm up to</h2>
   
 <div style="
       background: #0b1220;
@@ -244,7 +244,7 @@ Git · CI/CD · Agile
 </div>
 <!-- Support Section -->
 <div align="center">
-## 𖹭.ᐟ Support My Work
+##<h2> 𖹭.ᐟ Support My Work</h2>
 If you like my work, consider supporting me:
 <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDB8E7?style=for-the-badge&logo=buy-me-a-coffee&logoColor=1a1a1a" alt="Buy Me A Coffee"/>
