@@ -23,20 +23,22 @@
 </div>
 
 <div align="center" style="margin:40px 0;">
-  <h2><font color="#ff79c6">Índice</font></h2>
+  <h2><font color="#ff79c6">𖹭.ᐟ Índice</font></h2>
+
   <p>
-    <a href="#about-me">About Me</a> •
-    <a href="#tech-stack-tools">Tech Stack & Tools</a> •
-    <a href="#github-statistics">GitHub Statistics</a> •
-    <a href="#current-projects">Current Projects</a> •
-    <a href="#what-im-up-to">What I'm up to</a> •
-    <a href="#support-my-work">Support My Work</a>
+    <a href="#about-me">• About Me</a><br>
+    <a href="#tech-stack-tools">• Tech Stack & Tools</a><br>
+    <a href="#github-statistics">• GitHub Statistics</a><br>
+    <a href="#current-projects">• Current Projects</a><br>
+    <a href="#what-im-up-to">• What I'm up to</a><br>
+    <a href="#support-my-work">• Support My Work</a>
   </p>
 </div>
 
+
 <div align="center">
   <div style="max-width:520px;background:#111827;border:1px solid #1f2937;border-radius:14px;padding:24px;text-align:left;box-shadow:0 0 20px rgba(255,121,198,0.15);">
-    <h2 id="about-me"><font color="#ff79c6">♡ About Me</font></h2>
+    <h2 id="about-me"><font color="#ff79c6">𖹭.ᐟ About Me</font></h2>
     <div style="background:#0b1220;border-radius:10px;padding:18px;font-family:monospace;font-size:14px;line-height:1.6;color:#e5e7eb;">
       Hi, I'm <font color="#ff79c6">Laís Moraes</font>.<br><br>
       Full Stack Developer | Creative Coder | Tech Enthusiast<br><br>
