@@ -146,8 +146,6 @@
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moraeslais&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FDB8E7&text_color=E284C1&icon_color=C85C9D&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=moraeslais&theme=radical&hide_border=true&background=0d1117&stroke=E284C1&ring=FDB8E7&fire=C85C9D&currStreakLabel=FDB8E7&sideLabels=E284C1&currStreakNum=FDB8E7&sideNums=E284C1" alt="GitHub Streak"/>
-
 </div>
 
 <br>
@@ -156,8 +154,6 @@
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeslais&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FDB8E7&text_color=E284C1&langs_count=8" alt="Top Languages"/>
   
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=moraeslais&theme=radical&no-frame=true&no-bg=true&column=4&row=2&margin-w=10&title=Stars,Followers,Commits,PullRequest" alt="Trophies"/>
-
 </div>
 
 <br>
@@ -256,7 +252,7 @@ If you like my work, consider supporting me:
 <br>
 <!-- Footer -->
 <div align="center">
-Made with 💖 and lots of ☕ by **Laís Moraes**
+Made with 💖 and lots of ☕ by 𝐿𝑎𝜄́𝑠 𝑀𝑜𝑟𝑎𝑒𝑠.
 <br>
 
 <br><br>
