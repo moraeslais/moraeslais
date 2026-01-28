@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td style="
@@ -7,8 +6,6 @@
     ">
       <table width="100%" cellspacing="0" cellpadding="0">
         <tr>
-          
-          <!-- LEFT: TEXT -->
           <td width="55%" valign="middle">
             <h1 style="
               margin: 0;
@@ -20,7 +17,6 @@
             ">
               laís moraes
             </h1>
-
             <p style="
               margin-top: 16px;
               font-size: 20px;
@@ -30,8 +26,6 @@
               Full Stack Developer | Creative Coder | Tech Enthusiast
             </p>
           </td>
-
-          <!-- RIGHT: GIF -->
           <td width="45%" align="right" valign="middle">
             <img 
               src="https://i.pinimg.com/originals/92/33/80/92338017c079bea4f1250ed4a3056117.gif"
@@ -40,13 +34,11 @@
               style="border-radius: 8px; opacity: 0.95;"
             />
           </td>
-
         </tr>
       </table>
     </td>
   </tr>
 </table>
-
 
 </div>
 
