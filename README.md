@@ -18,8 +18,8 @@
   <!-- Avatar -->
   <img 
     src="assets/avatar.jpg"
-    width="200"
-    height="200"
+    width="300"
+    height="300"
     style="
       border-radius: 999px;
       border: 4px solid #ff79c6;
