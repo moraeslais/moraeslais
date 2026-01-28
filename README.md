@@ -190,8 +190,9 @@
 <br>
 
 <div align="center">
-</h2> 𖹭.ᐟ What I'm up to</h2>
-  
+<!-- Current Projects -->
+<h2> 𖹭.ᐟ What I'm up to</h2>
+ 
 <div style="
       background: #0b1220;
       border-radius: 10px;
@@ -201,6 +202,7 @@
       line-height: 1.6;
       color: #e5e7eb;
     ">
+  <br>
 ⟢ Stack
 
 Languages
@@ -228,7 +230,6 @@ Git · CI/CD · Agile
     ⤷ Continuous learning and improvement
 ⟢ Open to collaboration, impactful projects, and global opportunities.
 <br>
-
 <br>
 <div align="center">
   <img 
