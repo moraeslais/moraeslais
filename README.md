@@ -191,6 +191,7 @@
 
 <div align="center">
 </h2>## 𖹭.ᐟ What I'm up to</h2>
+  
 <div style="
       background: #0b1220;
       border-radius: 10px;
@@ -228,17 +229,19 @@ Git · CI/CD · Agile
 ⟢ Open to collaboration, impactful projects, and global opportunities.
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <br>
-<!-- Quote Section -->
 <div align="center">
-## 💭 Dev Quote
-*"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
+  <img 
+    src="assets/quote.jpg"
+    alt="Laís Moraes quote"
+    width="100%"
+    style="
+      max-width: 1100px;
+      border-radius: 12px;
+      margin-bottom: 40px;
+    "
+  />
 </div>
-<br>
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<br>
 <!-- Support Section -->
 <div align="center">
 ## 𖹭.ᐟ Support My Work
