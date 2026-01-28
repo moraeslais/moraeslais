@@ -1,31 +1,21 @@
-<div align="center" style="
-  background: linear-gradient(135deg, #0b0f17, #0f1320);
-  padding: 40px;
-  border-radius: 16px;
-  color: #fff;
-  font-family: 'Segoe UI', sans-serif;
-">
+<div align="center">
 
-  <!-- Avatar -->
+  <!-- Avatar redondo -->
   <img 
-    src="assets/avatar.jpg" 
+    src="assets/avatar.jpg"
+    width="140"
+    height="140"
     style="
-      width: 140px;
-      height: 140px;
-      border-radius: 50%;
-      object-fit: cover;
+      border-radius: 999px;
       border: 4px solid #ff79c6;
       margin-bottom: 16px;
+      object-fit: cover;
     "
   />
 
-  <!-- Welcome text -->
-  <h1 style="
-    color: #ff79c6;
-    margin: 10px 0;
-    font-weight: bold;
-  ">
-    Welcome to my GitHub Profile!
+  <!-- Welcome -->
+  <h1>
+    <font color="#ff79c6">Welcome to my GitHub Profile!</font>
   </h1>
 
   <!-- Komarev Badge -->
@@ -47,12 +37,9 @@
     text-align: left;
     box-shadow: 0 0 20px rgba(255,121,198,0.15);
   ">
-    <h2 style="
-      color: #ff79c6;
-      margin-top: 0;
-      font-weight: bold;
-    ">
-      ♡ About Me
+    <!-- About Me title -->
+    <h2>
+      <font color="#ff79c6">♡ About Me</font>
     </h2>
     <div style="
       background: #0b1220;
@@ -63,7 +50,7 @@
       line-height: 1.6;
       color: #e5e7eb;
     ">
-      Hi, I'm <span style="color:#ff79c6;">Laís Moraes</span>.<br><br>
+      Hi, I'm <font color="#ff79c6">Laís Moraes</font>.<br><br>
       Full Stack Developer focused on building scalable,<br>
       reliable, and high-quality software.<br><br>
       I enjoy solving complex problems, designing clean<br>
@@ -71,10 +58,10 @@
       engineering excellence and user experience.<br><br>
       I value simplicity, performance, and clarity |<br>
       in both code and communication.<br><br>
-      hobbies: [<span style="color:#ff79c6;">"Coding"</span>, 
-               <span style="color:#ff79c6;">"Gaming"</span>, 
-               <span style="color:#ff79c6;">"Reading"</span>],<br>
-      motto: "<span style="color:#ff79c6;">Code is poetry ✨</span>"
+      hobbies: [<font color="#ff79c6">"Coding"</font>, 
+               <font color="#ff79c6">"Gaming"</font>, 
+               <font color="#ff79c6">"Reading"</font>],<br>
+      motto: "<font color="#ff79c6">Code is poetry ✨</font>"
     </div>
 
   </div>
