@@ -203,26 +203,26 @@
 <br>
 Languages: 
 JavaScript · TypeScript · Python
-
+<br>
 Frontend:
 React · Next.js · Vue
-
+<br>
 Backend:
 Node.js · Express · Django
-
+<br>
 Data & Cloud:
 PostgreSQL · MongoDB · AWS · Docker
-
+<br>
 Tools:
 Git · CI/CD · Agile
-
+<br>
 ⟢ Currently Exploring:
 AI Engineering · Machine Learning · System Design
-
+<br>
 ⟢ Engineering Principles: 
 Clean, readable, and maintainable code · Scalability and performance by design · Strong ownership and accountability · Continuous learning and improvement
-    
-<h1>⟢ Open to collaboration, impactful projects, and global opportunities.</h1>
+ <br>   
+<h2>⟢ Open to collaboration, impactful projects, and global opportunities.</h2>
 <br>
 <br>
 <div align="center">
