@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="assets/banner.jpg"
+    src="assets/banner2.gif"
     alt="Laís Moraes Banner"
     width="100%"
     style="max-width:1100px;border-radius:12px;margin-bottom:40px;"
