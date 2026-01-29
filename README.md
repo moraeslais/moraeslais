@@ -139,6 +139,8 @@
 <img src="assets/quote.jpg" alt="Laís Moraes quote" width="100%" style=" max-width: 1100px; border-radius: 12px; margin-bottom: 40px; " /> 
 </div> 
 
+<br><br>
+
 <div align="center"> 
 <h2> 𖹭.ᐟ Support My Work</h2> 
 If you like my work, consider supporting me: <br><br> 
