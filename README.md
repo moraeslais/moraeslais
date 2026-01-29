@@ -115,7 +115,7 @@
 
   <a href="https://github.com/moraeslais/personal-finance-manager">
   <img
-    src="https://gh-pinned-repos.egoist.dev/?username=moraeslais&repo=personal-finance-manager"
+    src="https://gh-pinned-repos.egoist.dev/?username=moraeslais"
     alt="Personal Finance Manager Project"
     width="48%"
   />
