@@ -29,7 +29,6 @@
     •<a href="#about-me"> About Me</a><br>
     •<a href="#tech-stack-tools"> Tech Stack & Tools</a><br>
     •<a href="#github-statistics"> GitHub Statistics</a><br>
-    •<a href="#current-projects"> Current Projects</a><br>
     •<a href="#what-im-up-to"> What I'm up to</a><br>
     •<a href="#support-my-work"> Support My Work</a>
   </p>
@@ -100,20 +99,6 @@
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=moraeslais&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FDB8E7&text_color=E284C1&icon_color=C85C9D"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeslais&layout=compact&hide_border=true&bg_color=0d1117&title_color=FDB8E7&text_color=E284C1"/>
-</div>
-
-<br><br>
-
-<div align="center">
-  <h2 id="current-projects">𖹭.ᐟ Current Projects</h2>
-
-  <a href="https://github.com/moraeslais/PROJECT_1">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=moraeslais&repo=PROJECT_1&hide_border=true&bg_color=0d1117&title_color=FDB8E7&text_color=E284C1&icon_color=C85C9D"/>
-  </a>
-
-  <a href="https://github.com/moraeslais/PROJECT_2">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=moraeslais&repo=PROJECT_2&hide_border=true&bg_color=0d1117&title_color=FDB8E7&text_color=E284C1&icon_color=C85C9D"/>
-  </a>
 </div>
 
 <br><br>
