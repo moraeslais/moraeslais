@@ -15,19 +15,19 @@
     alt="Laís Moraes Avatar"
     style="border-radius:50%;border:4px solid #ff79c6;object-fit:cover;margin-bottom:16px;"
   />
-  <br />
+  <br/>
   <img
     src="https://komarev.com/ghpvc/?username=moraeslais&label=Profile%20Views&color=ff79c6&style=flat"
     alt="Profile Views"
   />
 </div>
 
-<br /><br />
+<br/><br/>
 
 <div align="center">
   <h2><font color="#ff79c6">𖹭.ᐟ Índice</font></h2>
   <p>
-    • <a href="#about-me">About Me</a><br />
+    • <a href="#about-me">About Me</a><br/>
     • <a href="#tech-stack-tools">Tech Stack & Tools</a><br />
     • <a href="#github-statistics">GitHub Statistics</a><br />
     • <a href="#what-im-up-to">What I'm up to</a><br />
@@ -35,14 +35,13 @@
   </p>
 </div>
 
-<br /><br />
+<br/><br/>
 
 <div align="center">
   <div
     style="max-width:560px;background:#0d1117;border-radius:16px;padding:28px;box-shadow:0 0 30px rgba(255,121,198,0.12);text-align:left;"
   >
     <h2 id="about-me"><font color="#ff79c6">𖹭.ᐟ About Me</font></h2>
-
     <div
       style="margin-top:16px;font-family:monospace;font-size:14px;line-height:1.7;color:#e5e7eb;"
     >
@@ -124,7 +123,6 @@
     Tools: Git · CI/CD · Agile<br /><br />
     Currently Exploring: AI Engineering · Machine Learning · System Design<br /><br />
     Engineering Principles: Clean code · Scalability · Performance · Continuous learning<br /><br />
-
     <h2>⟢ Open to collaboration, impactful projects, and global opportunities.</h2>
   </div>
 </div>
