@@ -128,24 +128,29 @@
     Data & Cloud: PostgreSQL · MongoDB · AWS · Docker<br><br>
     Tools: Git · CI/CD · Agile<br><br>
     Currently Exploring: AI Engineering · Machine Learning · System Design<br><br>
-    Engineering Principles: Clean code · Scalability · Performance · Continuous learning
+    Engineering Principles: Clean code · Scalability · Performance · Continuous learning<br><br>
+    <h2>⟢ Open to collaboration, impactful projects, and global opportunities.</h2>
   </div>
 </div>
 
 <br><br>
 
-<div align="center">
-  <h2 id="support-my-work">𖹭.ᐟ Support My Work</h2>
+<div align="center"> 
+<img src="assets/quote.jpg" alt="Laís Moraes quote" width="100%" style=" max-width: 1100px; border-radius: 12px; margin-bottom: 40px; " /> 
+</div> 
 
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDB8E7?style=for-the-badge&logo=buy-me-a-coffee&logoColor=1a1a1a"/>
-  </a>
-</div>
+<div align="center"> 
+<h2> 𖹭.ᐟ Support My Work</h2> 
+If you like my work, consider supporting me: <br><br> 
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME"> 
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDB8E7?style=for-the-badge&logo=buy-me-a-coffee&logoColor=1a1a1a" alt="Buy Me A Coffee"/> 
+  </a> 
+</div> 
+<br> 
 
+<div align="center"> 
+  Made with 💖 and lots of ☕ <b>by 𝐿𝑎𝜄́𝑠 𝑀𝑜𝑟𝑎𝑒𝑠.</b>
 <br><br>
-
-<div align="center">
-  Made with 💖 and ☕ by <b>Laís Moraes</b>
-  <br><br>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A5586E,50:C85C9D,100:E284C1&height=120&section=footer"/>
+    
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A5586E,50:C85C9D,100:E284C1&height=120&section=footer"/>
 </div>
