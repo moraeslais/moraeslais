@@ -15,19 +15,19 @@
     alt="Laís Moraes Avatar"
     style="border-radius:50%;border:4px solid #ff79c6;object-fit:cover;margin-bottom:16px;"
   />
-  <br/>
+  <br />
   <img
     src="https://komarev.com/ghpvc/?username=moraeslais&label=Profile%20Views&color=ff79c6&style=flat"
     alt="Profile Views"
   />
 </div>
 
-<br/><br/>
+<br /><br />
 
 <div align="center">
   <h2><font color="#ff79c6">𖹭.ᐟ Índice</font></h2>
   <p>
-    • <a href="#about-me">About Me</a><br/>
+    • <a href="#about-me">About Me</a><br />
     • <a href="#tech-stack-tools">Tech Stack & Tools</a><br />
     • <a href="#github-statistics">GitHub Statistics</a><br />
     • <a href="#what-im-up-to">What I'm up to</a><br />
@@ -35,7 +35,7 @@
   </p>
 </div>
 
-<br/>
+<br /><br />
 
 <div align="center">
   <div
