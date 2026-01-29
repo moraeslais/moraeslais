@@ -122,10 +122,10 @@
   <h2 id="what-im-up-to">𖹭.ᐟ What I'm up to</h2>
 
   <div style="background:#0b1220;border-radius:10px;padding:18px;font-family:monospace;font-size:14px;line-height:1.6;color:#e5e7eb;max-width:700px;">
-    Languages: JavaScript · TypeScript · Python<br>
-    Frontend: React · Next.js · Vue<br>
-    Backend: Node.js · Express · Django<br>
-    Data & Cloud: PostgreSQL · MongoDB · AWS · Docker<br>
+    Languages: JavaScript · TypeScript · Python<br><br>
+    Frontend: React · Next.js · Vue<br><br>
+    Backend: Node.js · Express · Django<br><br>
+    Data & Cloud: PostgreSQL · MongoDB · AWS · Docker<br><br>
     Tools: Git · CI/CD · Agile<br><br>
     Currently Exploring: AI Engineering · Machine Learning · System Design<br><br>
     Engineering Principles: Clean code · Scalability · Performance · Continuous learning
