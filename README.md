@@ -111,20 +111,6 @@
 <br /><br />
 
 <div align="center">
-  <h2 id="current-projects">♡ Current Projects</h2>
-
-  <a href="https://github.com/moraeslais/personal-finance-manager">
-    <img
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=moraeslais&repo=personal-finance-manager&hide_border=true&bg_color=0d1117&title_color=FDB8E7&text_color=E284C1&icon_color=C85C9D"
-      alt="Personal Finance Manager"
-    />
-  </a>
-</div>
-
-<br /><br />
-
-<div align="center">
   <h2 id="what-im-up-to">𖹭.ᐟ What I'm up to</h2>
 
   <div
