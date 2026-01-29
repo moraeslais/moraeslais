@@ -114,8 +114,7 @@
 <div align="center">
   <h2 id="current-projects">♡ Current Projects</h2>
 
-  • <a href="https://github.com/moraeslais/personal-finance-manager">
-  </a>
+  • <a href="https://github.com/moraeslais/personal-finance-manager">Personal Finance Manager.</a>
 </div>
 
 <br /><br />
