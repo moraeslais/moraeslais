@@ -25,13 +25,14 @@
 <div align="center" style="margin:40px 0;">
   <h2><font color="#ff79c6">𖹭.ᐟ Índice</font></h2>
 
-  <p>
+  <p><h1>
     •<a href="#about-me"> About Me</a><br>
     •<a href="#tech-stack-tools"> Tech Stack & Tools</a><br>
     •<a href="#github-statistics"> GitHub Statistics</a><br>
     •<a href="#current-projects"> Current Projects</a><br>
     •<a href="#what-im-up-to"> What I'm up to</a><br>
     •<a href="#support-my-work"> Support My Work</a>
+  </h1>
   </p>
 </div>
 
