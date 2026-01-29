@@ -158,7 +158,7 @@
   <h2>𖹭.ᐟ Support My Work</h2>
   If you like my work, consider supporting me:<br /><br />
   <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDB8E7?style=for-the-badge&logo=buy-me-a-coffee&logoColor=1a1a1a"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moraeslais&repo=personal-finance-manager)"/>
   </a>
 </div>
 
