@@ -10,8 +10,8 @@
 <div align="center">
   <img 
     src="assets/avatar.jpg"
-    width="300"
-    height="300"
+    width="350"
+    height="350"
     style="border-radius:50%;border:4px solid #ff79c6;margin-bottom:16px;object-fit:cover;"
   />
 
