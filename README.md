@@ -30,6 +30,7 @@
     • <a href="#about-me">About Me</a><br />
     • <a href="#tech-stack-tools">Tech Stack & Tools</a><br />
     • <a href="#github-statistics">GitHub Statistics</a><br />
+    • <a href="#current-projects">Current Projects</a><br />
     • <a href="#what-im-up-to">What I'm up to</a><br />
     • <a href="#support-my-work">Support My Work</a>
   </p>
@@ -113,12 +114,7 @@
 <div align="center">
   <h2 id="current-projects">♡ Current Projects</h2>
 
-  <a href="https://github.com/moraeslais/personal-finance-manager">
-  <img
-    src="https://gh-pinned-repos.egoist.dev/?username=moraeslais"
-    alt="Personal Finance Manager Project"
-    width="48%"
-  />
+  • <a href="https://github.com/moraeslais/personal-finance-manager">
   </a>
 </div>
 
