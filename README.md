@@ -111,6 +111,20 @@
 <br /><br />
 
 <div align="center">
+  <h2 id="current-projects">♡ Current Projects</h2>
+
+  <a href="https://github.com/moraeslais/personal-finance-manager">
+  <img
+    src="https://gh-pinned-repos.egoist.dev/?username=moraeslais&repo=personal-finance-manager"
+    alt="Personal Finance Manager Project"
+    width="48%"
+  />
+  </a>
+</div>
+
+<br /><br />
+
+<div align="center">
   <h2 id="what-im-up-to">𖹭.ᐟ What I'm up to</h2>
 
   <div
