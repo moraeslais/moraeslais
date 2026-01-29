@@ -40,7 +40,7 @@
   <div style="max-width:520px;background:#111827;border:1px solid #1f2937;border-radius:14px;padding:24px;text-align:left;box-shadow:0 0 20px rgba(255,121,198,0.15);">
     <h2 id="about-me"><font color="#ff79c6">𖹭.ᐟ About Me</font></h2>
     <div style="background:#0b1220;border-radius:10px;padding:18px;font-family:monospace;font-size:14px;line-height:1.6;color:#e5e7eb;">
-      Hi, I'm <font color="#ff79c6">Laís Moraes</font>. 👋<br><br>
+      Hi, I'm <b>Laís Moraes</b>. 👋<br><br>
       Full Stack Developer | Creative Coder | Tech Enthusiast<br><br>
       I enjoy solving complex problems, designing clean architectures, and delivering products that balance engineering excellence and user experience.<br><br>
       I value simplicity, performance, and clarity in both code and communication.
@@ -129,7 +129,7 @@
     Tools: Git · CI/CD · Agile<br><br>
     Currently Exploring: AI Engineering · Machine Learning · System Design<br><br>
     Engineering Principles: Clean code · Scalability · Performance · Continuous learning<br><br>
-    <h2>⟢ Open to collaboration, impactful projects, and global opportunities.</h2>
+    <h2>⟢ Open to collaboration, impactful projects, and global opportunities.</h2><br><br>
   </div>
 </div>
 
