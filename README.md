@@ -105,7 +105,6 @@
 <div align="center">
   <h2 id="github-statistics">𖹭.ᐟ GitHub Statistics</h2>
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=moraeslais&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FDB8E7&text_color=E284C1&icon_color=C85C9D"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeslais&layout=compact&hide_border=true&bg_color=0d1117&title_color=FDB8E7&text_color=E284C1"/>
 </div>
 
