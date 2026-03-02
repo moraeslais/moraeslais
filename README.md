@@ -29,7 +29,6 @@
   <p>
     • <a href="#about-me">About Me</a><br />
     • <a href="#tech-stack-tools">Tech Stack & Tools</a><br />
-    • <a href="#github-statistics">GitHub Statistics</a><br />
     • <a href="#current-projects">Current Projects</a><br />
     • <a href="#what-im-up-to">What I'm up to</a><br />
     • <a href="#support-my-work">Support My Work</a>
@@ -98,14 +97,6 @@
     <img src="https://img.shields.io/badge/Figma-FDB8E7?style=for-the-badge&logo=figma&logoColor=1a1a1a"/>
     <img src="https://img.shields.io/badge/Postman-FDB8E7?style=for-the-badge&logo=postman&logoColor=1a1a1a"/>
   </p>
-</div>
-
-<br /><br />
-
-<div align="center">
-  <h2 id="github-statistics">𖹭.ᐟ GitHub Statistics</h2>
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeslais&layout=compact&hide_border=true&bg_color=0d1117&title_color=FDB8E7&text_color=E284C1"/>
 </div>
 
 <br /><br />
